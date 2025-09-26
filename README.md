@@ -1,5 +1,3 @@
-# Job Site Inventory Management System
-
 A modern React application built with **Vite** and **TypeScript** for managing job sites and their inventory categories. This application follows a Figma design specification and provides comprehensive inventory management functionality for construction or project-based businesses.
 
 ##Features
